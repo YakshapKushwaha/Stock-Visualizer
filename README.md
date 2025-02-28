@@ -13,3 +13,6 @@ A simple web application to visualize stock prices from a CSV file.
 
 - Web browser (Chrome, Firefox, etc.)
 - Local server (optional, for development)
+
+## Live Demo
+[View it live here](https://yakshapkushwaha.github.io/Stock-Visualizer/)
